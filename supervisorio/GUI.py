@@ -4,7 +4,7 @@ import PySimpleGUI as sg
 from pyModbusTCP.client import ModbusClient
 import pickle
 
-IP = '54.91.136.118'
+IP = '54.235.3.121'
 
 layout = [
     [sg.Text('Gráfico em Tempo Real'), ],

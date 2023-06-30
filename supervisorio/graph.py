@@ -5,7 +5,7 @@ import matplotlib.animation as animation
 import pickle
 import time
 
-IP = '54.91.136.118'
+IP = '54.235.3.121'
 
 try:
     c = ModbusClient(host=IP, port=502)
